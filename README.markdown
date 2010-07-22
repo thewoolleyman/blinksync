@@ -8,6 +8,11 @@ blinksync.net
 Architecture Notes
 ==================
 
+Misc
+----
+
+http://howtonode.org/express-mongodb
+
 
 Node.js
 -------
